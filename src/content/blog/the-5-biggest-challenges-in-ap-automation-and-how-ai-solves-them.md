@@ -2,7 +2,7 @@
 title: "The 5 Biggest Challenges in AP Automation (And How AI Solves Them)"
 description: "75% of AP departments already use AI or automation, yet only 32.6% of invoices go fully touchless. Here are the 5 challenges we see behind that gap — bundled files, GL coding, non-PO invoices, invoice fraud, and AP reporting — and how FormX.ai handles each."
 excerpt: "75% of AP departments already use AI or automation, yet only 32.6% of invoices go fully touchless. Here are the 5 challenges we see behind that gap — bundled files, GL coding, non-PO invoices, invoice fraud, and AP reporting — and how FormX.ai handles each."
-category: automation
+category: guide
 author: FormX
 date: 2026-09-14
 featured_image: "/images/blog/ap-automation-challenges-hero.jpg"
@@ -11,7 +11,9 @@ canonical_url: "/blog/the-5-biggest-challenges-in-ap-automation-and-how-ai-solve
 ---
 
 <style>
-  .rt-post h3.faq-q { font-size: 22px; line-height: 1.4; margin-top: 28px; }
+  .rt-post h3.faq-q,
+  .rt-post h3.challenge-h { font-size: 22px; line-height: 1.4; margin-top: 28px; }
+  .rt-post h3.challenge-h { color: var(--primary-formx-green); }
 </style>
 
 Picture the invoice that comes in, gets captured, and arrives in your queue with every field already filled in. That used to be the finish line for "AP automation." It isn't anymore, not when the same invoice still needs someone to code it, check it against the right cost centre, catch a mismatch, and route it to the right approver by hand.
@@ -36,25 +38,25 @@ A lot of that gap comes down to where automation stops. Most tools get an invoic
 
 ## The 5 challenges we see in AP automation
 
-### 1. Invoices buried in messy files
+<h3 class="challenge-h">1. Invoices buried in messy files</h3>
 
 Not everything that arrives in an AP inbox is one clean invoice. In our observations, a single file might bundle several documents together, with an invoice, PO, delivery note, statement, and remittance stapled into one PDF. Splitting and classifying these multi-document files, then routing each page to the right queue, is a step we consistently see needing a person to catch, even when extraction itself is automated.
 
 FormX.ai splits and classifies each page on intake, so every document reaches the right queue on its own. Every split is saved for audit.
 
-### 2. GL codes are not on the invoice
+<h3 class="challenge-h">2. GL codes are not on the invoice</h3>
 
 Extracted data isn't useful until it's coded. GL account, cost centre, project code, tax treatment, credit/debit splits, the right internal company code across multiple entities. Most of it isn't printed on the vendor's invoice. It's the step we see most consistently still done by hand, even where capture is fully automated.
 
 FormX.ai learns your coding rules and each vendor's history, then applies them to every new invoice. High-confidence lines are applied automatically. Low-confidence lines are sent for human review, so a person still owns the edge cases and every decision is traceable in the audit log.
 
-### 3. No PO to match against
+<h3 class="challenge-h">3. No PO to match against</h3>
 
 Sometimes services invoices arrive with no PO. In our experience, without a PO the coding answer has to come from somewhere else, and in most teams that means a human decides invoice by invoice.
 
 FormX.ai codes non-PO invoices from vendor history instead of a matching document. When a vendor has been coded consistently across past invoices, that pattern is applied to the new one automatically. Low-confidence cases are sent for human review with the reasoning attached, so a person can accept or adjust in one step.
 
-### 4. Invoice fraud slips through
+<h3 class="challenge-h">4. Invoice fraud slips through</h3>
 
 Business Email Compromise (BEC) and vendor impersonation are among the most-reported invoice fraud vectors. The FBI's IC3 report has cited multi-billion-dollar annual losses to BEC for several years running, and the AFP Payments Fraud Survey routinely finds a majority of surveyed organisations experienced BEC attempts. Enterprise losses are especially large. Toyota Boshoku, Nikkei, Ubiquiti, and the Google/Facebook fake-vendor case are all documented examples where invoice or payment instructions were altered and nobody caught it before the money left.
 
@@ -66,7 +68,7 @@ Most tools only flag a field when the OCR itself is uncertain. What we see helpi
 
 Anything unusual is flagged to Finance for callback verification before the invoice enters the approval workflow. Every check is saved for audit. This is our earliest-possible sensor layer that goes before your existing controls or third-party bank verification. It catches the anomaly before the invoice reaches them.
 
-### 5. Making sense of your AP data
+<h3 class="challenge-h">5. Making sense of your AP data</h3>
 
 Once every invoice is captured, coded, and paid through AI, the whole process becomes queryable. In our experience, the block for most AP leaders is not that reports take too long. It is that they don't know where to start, or what to ask.
 
