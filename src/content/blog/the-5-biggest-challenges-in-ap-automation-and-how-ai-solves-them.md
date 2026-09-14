@@ -12,8 +12,12 @@ canonical_url: "/blog/the-5-biggest-challenges-in-ap-automation-and-how-ai-solve
 
 <style>
   .rt-post h3.faq-q,
-  .rt-post h3.challenge-h { font-size: 22px; line-height: 1.4; margin-top: 28px; }
-  .rt-post h3.challenge-h { color: var(--primary-formx-green); }
+  .rt-post h3.challenge-h {
+    font-size: 22px;
+    line-height: 1.4;
+    margin-top: 28px;
+    color: var(--primary-formx-green);
+  }
 </style>
 
 Picture the invoice that comes in, gets captured, and arrives in your queue with every field already filled in. That used to be the finish line for "AP automation." It isn't anymore, not when the same invoice still needs someone to code it, check it against the right cost centre, catch a mismatch, and route it to the right approver by hand.
