@@ -22,7 +22,7 @@ In short:
 
 ## The gap between adoption and outcomes
 
-[Ardent Partners' 2025 Accounts Payable Metrics That Matter report](https://www.datocms-assets.com/80283/1744404602-ardent-partners-ap-metrics-that-matter-in-2025-pagero-final.pdf), one of the more widely cited AP benchmarking studies in the U.S., puts a number on what that gap costs:
+[Ardent Partners' 2025 Accounts Payable Metrics That Matter report](https://europe.thomsonreuters.com/guides/ardent-partners-2025-ap-metrics), one of the more widely cited AP benchmarking studies in the U.S., puts a number on what that gap costs:
 
   * **Cost per invoice:** US$9.40 on average, versus US$2.78 for best-in-class AP teams
   * **Processing time:** 9.2 days on average (17.4 days for slower organisations), versus 3.1 days for best-in-class teams
@@ -94,4 +94,4 @@ Scope a pilot to one invoice type or vendor group, run it alongside what you alr
 
 ## Try FormX.ai on your own AP workflow
 
-If you want to see this against your own invoices rather than a benchmark report, [FormX.ai's free trial](/pricing/) covers the first 100 pages. Or, if you'd rather talk it through first, [schedule a meeting](https://go.formx.ai/booking) with our specialist for a free consultation, especially if sorting bundled files, coding, non-PO invoices, anomaly checks, or matching exceptions is still the part you're doing by hand.
+If you want to see this against your own invoices rather than a benchmark report, FormX.ai's free trial covers the first 100 pages. Or, if you'd rather talk it through first, [schedule a meeting](https://go.formx.ai/booking) with our specialist for a free consultation, especially if sorting bundled files, coding, non-PO invoices, anomaly checks, or matching exceptions is still the part you're doing by hand.
