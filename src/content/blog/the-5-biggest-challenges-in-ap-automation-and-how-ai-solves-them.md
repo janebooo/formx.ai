@@ -10,6 +10,10 @@ featured_image_alt: "The 5 biggest challenges in AP automation: bundled invoice 
 canonical_url: "/blog/the-5-biggest-challenges-in-ap-automation-and-how-ai-solves-them/"
 ---
 
+<style>
+  .rt-post h3.faq-q { font-size: 22px; line-height: 1.4; margin-top: 28px; }
+</style>
+
 Picture the invoice that comes in, gets captured, and arrives in your queue with every field already filled in. That used to be the finish line for "AP automation." It isn't anymore, not when the same invoice still needs someone to code it, check it against the right cost centre, catch a mismatch, and route it to the right approver by hand.
 
 If you're one of the 75% of Accounts Payable (AP) departments already using some form of AI or automation, the real question by now is why the results haven't fully caught up yet.
@@ -80,15 +84,15 @@ Once an invoice is coded and validated, [FormX.ai Clark](https://www.youtube.com
 
 ## A few common questions
 
-### Does this replace our ERP or approval workflow?
+<h3 class="faq-q">Does this replace our ERP or approval workflow?</h3>
 
 No. FormX.ai sits in front of what you already run and pushes clean, coded data into your existing ERP or AP system.
 
-### What if our invoices don't fit a standard integration?
+<h3 class="faq-q">What if our invoices don’t fit a standard integration?</h3>
 
 Our servicing consultation and development team can help build custom requirements. You're not limited to a one-size-fits-all setup.
 
-### How do we start without disrupting our current process?
+<h3 class="faq-q">How do we start without disrupting our current process?</h3>
 
 Scope a pilot to one invoice type or vendor group, run it alongside what you already have, and only connect it to your core systems once accuracy has been validated on your own documents.
 
