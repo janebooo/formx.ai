@@ -7,7 +7,7 @@ author: FormX
 date: 2026-09-14
 featured_image: "/images/blog/ap-automation-challenges-hero.jpg"
 featured_image_alt: "The 5 biggest challenges in AP automation: bundled invoice files, GL coding, non-PO invoices, invoice fraud, and AP reporting"
-canonical_url: "/blog/the-5-biggest-challenges-in-ap-automation-and-how-ai-solves-them/"
+canonical_url: "/blog/the-5-biggest-challenges-in-ap-automation/"
 ---
 
 <style>
