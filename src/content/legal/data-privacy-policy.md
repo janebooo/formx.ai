@@ -5,6 +5,8 @@ description: ""
 canonicalUrl: "https://www.formx.ai/data-privacy-policy/"
 ---
 
+**Last updated: 2026-09-22**
+
 ## Who We Are
 
 When we refer to "FormX," "we," or "us" in this policy, we mean Skymakers Digital Limited, which controls the information FormX collects when you use FormX's Services. FormX owns and operates a number of websites and API services.
@@ -28,6 +30,10 @@ This includes files uploaded via FormX portal to FormX API endpoints and directl
 #### 2. Other Contents
 
 Examples of other content we collect and store include, but are not limited to, name of your account, email of team members, files, content you uploaded, or inputs to this website, FormX portal, or provided to our support team members via other channels.
+
+### Google Account Data
+
+If you enable the optional "Export to Google Sheets" feature, you authorise FormX through Google's OAuth consent screen to access your Google account identifier, name and email address (`openid`, `email` and `profile` scopes) and the spreadsheet you designate (`https://www.googleapis.com/auth/spreadsheets` scope). We use this only to write information extracted from your uploaded documents into that spreadsheet and to show which Google Account a workspace is connected to, and we share it only as described under [*How We Share Information We Collect*](#how-we-share-information-we-collect) below. We never use it for advertising, sell it, or use it to train machine learning models. FormX's use and transfer of information received from Google APIs to any other app will adhere to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
 
 ### Your Activity
 
@@ -85,13 +91,14 @@ We work with third-party service providers to provide website and application de
 
 ## How We Store and Secure Information We Collect
 
-We use data hosting service providers in the United States, Taiwan, Singapore, depending on which region you signed up, to host the information we collect, and we use technical measures to secure your data. However, no security system is impenetrable due to the inherent nature of the internet. We cannot guarantee that data, during transmission through the internet or while stored on our systems, is absolutely safe from intrusion by others. We will respond to requests about this within a reasonable time frame.
+We use data hosting service providers in the United States, Taiwan, Singapore, depending on which region you signed up, to host the information we collect, and we use technical measures to secure your data. However, no security system is impenetrable due to the inherent nature of the internet. We cannot guarantee that data, during transmission through the internet or while stored on our systems, is absolutely safe from intrusion by others. Credentials for third-party integrations, including Google OAuth tokens, are encrypted at rest and in transit and restricted to the systems and personnel that operate the integration. We will respond to requests about this within a reasonable time frame.
 
 ## How Long We Keep Your Information
 
 We will keep your information as long as it is necessary for the purposes set out in this Privacy Policy. After such time, we will either delete or anonymize your information.
 
 - **Account information:** We retain your account information until you delete your account. If you wish to delete your account, contact us at [support@formx.ai](mailto:support@formx.ai).
+- **Google Account data:** OAuth tokens are deleted within 30 days after you disconnect the integration, revoke FormX's access at your [Google Account permissions page](https://myaccount.google.com/permissions), or delete your FormX account. We do not keep a copy of your spreadsheet contents.
 - **Information you share on the Services:** When you delete your account, all the information you share on the Services will be removed at the same time. However, for information that is shared with other users (i.e., you own a team that have collaborators), it will be retained to allow other users to make full use of the Services. If you want to also delete shared information when you delete your account, please contact us at [support@formx.ai](mailto:support@formx.ai).
 - **Marketing information:** If you receive marketing emails from us, we retain information about your marketing preferences unless you delete your account or specifically ask us to delete such information. For information derived from cookies and other tracking technologies, we retain such information for a reasonable period of time from the date it was created.
 
