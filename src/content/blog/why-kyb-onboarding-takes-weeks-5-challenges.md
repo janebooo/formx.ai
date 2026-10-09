@@ -63,9 +63,11 @@ A Hong Kong business registration certificate looks nothing like a Singapore ACR
 
 For teams onboarding partners across borders without local reviewers in each market, every reviewer needs to know where to find key information on each document type. Template-based tools struggle for the same reason: there are too many layouts to configure and maintain.
 
-## Built to fit into the process you already have
+None of these challenges comes down to judgement. They're the repetitive work that slows every application down, and that's where AI can take the load.
 
-FormX.ai Clark doesn't have to replace your KYB process or the KYB software you already use for screening. It reads and extracts data from company documents, then carries that data through the rest of the workflow, including checking for missing documents, comparing details across documents, routing cases to the right reviewer and sending approved details into your existing systems.
+## Where FormX.ai Clark fits
+
+FormX.ai Clark reads company documents, flags missing files and mismatches, routes each case to the right queue and sends approved details into your systems. Reviewers only get the cases that need them and it works alongside your current KYB process and screening tools.
 
 ## Watch FormX.ai Clark in action
 
