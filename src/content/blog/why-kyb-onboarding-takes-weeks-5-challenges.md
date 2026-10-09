@@ -69,6 +69,6 @@ FormX.ai Clark doesn't have to replace your KYB process or the KYB software you 
 
 ## Watch FormX.ai Clark in action
 
-Watch our demo video to see how FormX.ai Clark reads company documents, flags mismatches between them and fills out the application form, all automatically.
+[Watch our demo video](https://go.formx.ai/clark-demo-kyb) to see how FormX.ai Clark reads company documents, flags mismatches between them and fills out the application form, all automatically.
 
 If you're unsure how it would work for your own KYB documents and workflow, [book a demo](https://go.formx.ai/booking) with one of our specialists.
