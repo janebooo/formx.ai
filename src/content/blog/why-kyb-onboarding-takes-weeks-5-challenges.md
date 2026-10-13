@@ -1,6 +1,6 @@
 ---
 title: "Why KYB Onboarding Takes Weeks: 5 Challenges and How AI Helps"
-description: "KYB verification is the slowest stage of partner onboarding for most teams — not because applications get rejected, but because they stall. Here are the 5 challenges we see, and how AI handles each."
+description: "KYB onboarding rarely fails — it stalls. Here are the 5 challenges that slow partner verification, and how AI helps your team clear each one."
 excerpt: "KYB verification is the slowest stage of partner onboarding for most teams — not because applications get rejected, but because they stall. Here are the 5 challenges we see, and how AI handles each."
 category: guide
 author: FormX
@@ -27,7 +27,7 @@ For many teams, KYB verification is the slowest stage of onboarding. Few applica
 
 KYC (Know Your Customer) verifies an individual. KYB verifies a business, and usually includes KYC checks on the people behind it, such as directors and ultimate beneficial owners (UBOs).
 
-Common KYB documents include a certificate of incorporation or business registration certificate, articles of association, a register of directors and shareholders, proof of business address, and ID documents for directors and beneficial owners.
+Common KYB documents include a certificate of incorporation or [business registration certificate](/solutions/business-certificates/), articles of association, a register of directors and shareholders, [proof of business address](/solutions/address-proof/), and [ID documents](/solutions/id-card-ocr/) for directors and beneficial owners.
 
 ## Where the time actually goes
 
@@ -55,13 +55,13 @@ Spotting discrepancies like this means comparing names, numbers and addresses ac
 
 Once a business is approved, its details still have to be entered into your CRM or onboarding system: company name, registration number, address and business type.
 
-This is usually done by hand, one document at a time. It's repetitive and time-consuming, and every manual entry is a chance for an error that causes problems later.
+This is usually done by hand, one document at a time. It's repetitive and time-consuming, and every [manual entry](/blog/manual-data-entry/) is a chance for an error that causes problems later.
 
 <h3 class="challenge-h">5. Every country formats company documents differently</h3>
 
 A Hong Kong business registration certificate looks nothing like a Singapore ACRA business profile or a UK Companies House record. The registration number has a different name, sits in a different place and follows a different format.
 
-For teams onboarding partners across borders without local reviewers in each market, every reviewer needs to know where to find key information on each document type. Template-based tools struggle for the same reason: there are too many layouts to configure and maintain.
+For teams onboarding partners across borders without local reviewers in each market, every reviewer needs to know where to find key information on each document type. Template-based tools struggle for the same reason: there are too many layouts to configure and maintain. This is the kind of [unstructured data extraction](/blog/what-is-unstructured-data-extraction/) that template-free AI handles better.
 
 None of these challenges comes down to judgement. They're the repetitive work that slows every application down, and that's where AI can take the load.
 
@@ -74,3 +74,5 @@ FormX.ai Clark reads company documents, flags missing files and mismatches, rout
 [Watch our demo video](https://go.formx.ai/clark-demo-kyb) to see how FormX.ai Clark reads company documents, flags mismatches between them and fills out the application form, all automatically.
 
 If you're unsure how it would work for your own KYB documents and workflow, [book a demo](https://go.formx.ai/booking) with one of our specialists.
+
+This post is part of our series on the biggest challenges in automating document-heavy workflows with AI. The first entry covers [the 5 biggest challenges in AP automation](/blog/the-5-biggest-challenges-in-ap-automation/).
